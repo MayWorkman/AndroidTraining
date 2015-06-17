@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Modern Art UI</string>
+
+    <string name="more_info">More Information</string>
+    <string name="more_info_title">This app is inspired by the works of Modern Art masters.</string>
+    <string name="more_info_subtitle">For more information click below.</string>
+    <string name="visit">Visit MOMA</string>
+    <string name="cancel">not now</string>
+    <string name="moma_url">http://www.moma.org/m</string>
+    <string name="title_activity_options_menu">OptionsMenu</string>
+    <string name="action_settings">Settings</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+
+</resources>

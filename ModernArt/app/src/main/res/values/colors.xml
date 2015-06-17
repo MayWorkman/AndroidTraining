@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="aqua" type="color">#FF00CCCC</item>
+    <item name="blue" type="color">#FF00007A</item>
+    <item name="green" type="color">#FF2E5C00</item>
+    <item name="orange" type="color">#FFE65C00</item>
+    <item name="pink" type="color">#FFFF0066</item>
+    <item name="purple" type="color">#FF7A297A</item>
+    <item name="red" type="color">#FFB80000</item>
+    <item name="yellow" type="color">#FFE6E600</item>
+    <item name="white" type="color">#FFFFFFFF</item>
+    <item name="background" type="color">#FFE6E6B8</item>
+
+    <integer-array name="myColors">
+        <item>@color/aqua</item>
+        <item>@color/blue</item>
+        <item>@color/green</item>
+        <item>@color/orange</item>
+        <item>@color/pink</item>
+        <item>@color/purple</item>
+        <item>@color/red</item>
+        <item>@color/yellow</item>
+        <item>@color/white</item>
+        <item>@color/background</item>
+    </integer-array>
+
+</resources>
